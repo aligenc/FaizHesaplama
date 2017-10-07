@@ -1,0 +1,10 @@
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\bin\Debug\netcoreapp2.0\FaizHesaplama.deps.json
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\bin\Debug\netcoreapp2.0\FaizHesaplama.runtimeconfig.json
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\bin\Debug\netcoreapp2.0\FaizHesaplama.runtimeconfig.dev.json
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\bin\Debug\netcoreapp2.0\FaizHesaplama.dll
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\bin\Debug\netcoreapp2.0\FaizHesaplama.pdb
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\obj\Debug\netcoreapp2.0\FaizHesaplama.csproj.CoreCompileInputs.cache
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\obj\Debug\netcoreapp2.0\FaizHesaplama.AssemblyInfoInputs.cache
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\obj\Debug\netcoreapp2.0\FaizHesaplama.AssemblyInfo.cs
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\obj\Debug\netcoreapp2.0\FaizHesaplama.dll
+c:\users\31628147990\documents\visual studio 2017\Projects\FaizHesaplama\obj\Debug\netcoreapp2.0\FaizHesaplama.pdb
